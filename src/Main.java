@@ -1,4 +1,4 @@
-// [] class katt privat, namn, ras, chip
+// [x] class katt privat, namn, ras, chip
 // [] register katt
 // [] getters
 // [] chip-spärr om katten redan finns
