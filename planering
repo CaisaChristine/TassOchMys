@@ -1,0 +1,20 @@
+Kattepensionat
+
+Katt objekt
+ - Namn
+ - Ras
+ - Chip
+
+Katt register
+ - Lista registrerade katter
+ - Incheckad/inte incheckad
+ - Privat tillgång endast för pensionatet
+
+Incheckning och utcheckning
+ - Kontroll av chipnummer
+ - Nekas för redan registrerat chip
+
+Upprop och översikt
+ - Lista alla incheckade katter
+ - Visa namn, ras och chip
+ - Meddelande om pensionatet skulle vara tomt
